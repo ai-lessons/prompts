@@ -23,8 +23,16 @@ Title: [catchy title in Russian]
 ---
 
 REQUIREMENTS:
-- If the article is about running shoes, apparel, or running gadgets → Relevance: RELEVANT.  
-  Otherwise → Relevance: IRRELEVANT and set Summary and Title to IRRELEVANT.
+- RELEVANCE RULES:
+  Mark the article as RELEVANT **only if** it clearly discusses:
+  - running shoes (for road, trail, track, marathon, jogging, training runs, recovery runs),
+  - running apparel (tights, shorts, shirts, jackets, socks designed for running),
+  - or gadgets/accessories for running (glasses, watches, sensors, headphones for runners).
+  If the article focuses on footwear for other sports — such as basketball, tennis, football, hiking, gym training, casual sneakers, or fashion — mark it as IRRELEVANT.
+  Borderline cases:
+  - If the text mixes running shoes with other sports, treat it as IRRELEVANT unless running is the main focus.
+  - If unsure, choose IRRELEVANT.
+
 - Write the Summary in **Russian**, in the same conversational and expert tone as the examples.  
   Avoid literal translations — convey meaning naturally and clearly.  
   Do not use first-person statements (“I think”, “I like”).  

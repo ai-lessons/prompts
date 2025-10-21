@@ -1,4 +1,6 @@
-INSTRUCTION: Use the examples below as style and vocabulary reference. Each example has Title: and Summary: fields. Follow the tone and structure.
+INSTRUCTION: Use the examples below as style and vocabulary reference. Each example starts with a Title line and then a Summary. 
+Follow this format and tone when generating new annotations. 
+
 
 === EXAMPLE START ===
 Title: Asics Gel Nimbus 27 — комфорт для длительных пробежек

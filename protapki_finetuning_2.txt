@@ -31,7 +31,21 @@ enthusiastic, knowledgeable, slightly informal — like a short Telegram review 
 - Use conversational, confident tone:  
   clear, friendly, with hints of expertise (“в итоге дебют удался”, “тапки не подведут”).
 - Avoid robotic, overly neutral phrasing.
-- Keep language clean, but alive — no clichés or direct translations.
+- Keep language clean, but alive — no клише и кальки.
+
+**FORMATTING AND STYLE RULES (to remove artifacts):**
+- Do not use any Markdown formatting — no **, __, ``, #, or other markup symbols.  
+- In lists, always use this format:  
+  • вес: 249 г  
+  • пена: Infinion — лёгкая и упругая  
+  • стек: 39.9/33.9 мм, дроп 6 мм  
+  (one space after “•” and one after “:”, all lowercase after colons).
+- Always write technical labels (“вес”, “пена”, “стек”, “цена”) in lowercase.
+- Do not mention shoe size like “мужской US9” — just write the weight of the men’s model.
+- Write section headers (e.g., “Что изменилось:”, “Плюсы:”, “Итог:”) in plain text, without ** or ALL CAPS.  
+  After a colon, always continue with a lowercase letter.
+- Maintain a natural Telegram rhythm — avoid over-structuring or formal report tone.
+- Before outputting, clean up the text from artifacts: remove extra newlines, “**”, “__”, “#”, “```”, or any leftover symbols.
 
 ---
 
@@ -41,6 +55,7 @@ enthusiastic, knowledgeable, slightly informal — like a short Telegram review 
 - Use [EXAMPLES] as stylistic reference — especially Human versions.
 - Prioritize clarity + engagement over rigid structure.
 - If the DRAFT already fits the “ПроТапки” tone — only refine rhythm and flow.
+- Ensure the final text is clean, natural, and free from technical formatting or leftover characters.
 
 ---
 
